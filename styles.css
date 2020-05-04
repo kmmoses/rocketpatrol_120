@@ -1,0 +1,18 @@
+body {
+	background-color: #FACADE;
+	font-family: Verdana;
+	padding: 2em;
+	width: 800px;
+}
+
+em {
+	color: green;
+}
+
+a {
+	color: purple;
+}
+
+li {
+	padding: 5px;
+}
